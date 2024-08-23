@@ -1,6 +1,6 @@
 ### Project Title: OOP Lab Tasks
 
-<img src="[https://media.licdn.com/dms/image/D5612AQGplp7JKG6Iiw/article-cover_image-shrink_720_1280/0/1673950361361?e=2147483647&v=beta&t=NxzErCoXqQ-xwkHJZZkKGKYNA21hJh3oNMUJzNKQr9M](https://webfiles.amrita.edu/2023/08/h4geutCf-oops-virtual-lab-img.jpg)" height="auto" width="3000px">
+<img src="https://webfiles.amrita.edu/2023/08/h4geutCf-oops-virtual-lab-img.jpg" height="auto" width="3000px">
 
 #### Introduction:
 Welcome to the OOP Lab Tasks repository! This project demonstrates various Object-Oriented Programming (OOP) concepts using Java. The repository includes implementations of common OOP principles through practical tasks designed to enhance understanding and proficiency in Java.
